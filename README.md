@@ -1,2 +1,2 @@
 # JPMC Task 3
-Starter repo for task 3 of JPMC's Forage program
+•	Used JPMorgan Chase’s open-source library called Perspective to generate a live graph displaying data for traders to monitor. 
